@@ -1,3 +1,3 @@
 #!/bin/sh
 
-conky -c ~/Work/Conky/Config/conkyrc 
+conky -c Config/conkyrc
